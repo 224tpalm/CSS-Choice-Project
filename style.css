@@ -21,3 +21,55 @@ li a {
 li a:hover {
   background-color: darkred;
 }
+
+.chicago {
+  padding-top: 30px;
+}
+
+body {
+text-align: center;
+  width: 1200px;
+  padding-left: 375px;
+  background-image: url("img/images.jpeg");
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-45%, -49%);
+  font-size: 60px;
+  color: white;
+  text-shadow: 2px 2px black;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+}
+
+div.gallery:hover {
+  border: 1px solid;
+  color: midnightblue;
+  padding-left: 100px;
+}
+
+div.imgdesc {
+  text-align: center;
+  color: black;
+}
+
+
+div.gallery img {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
