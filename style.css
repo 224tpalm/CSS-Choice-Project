@@ -154,7 +154,7 @@ footer {
 
 div.gallery2 {
   margin: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid black;
   float: left;
 }
 
@@ -164,9 +164,9 @@ div.gallery2:hover {
 }
 
 div.imgdesc {
-  padding: 15px;
+  padding: 5px;
   text-align: center;
-  color: white;
+  color: black;
 }
 
 div.gallery2 {
