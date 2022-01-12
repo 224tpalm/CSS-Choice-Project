@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: midnightblue;
+  background-color: dimgrey;
 }
 
 li {
@@ -146,4 +146,8 @@ input[type=submit]:hover {
     width: 100%;
     margin-top: 0;
   }
+}
+
+footer {
+  column-count: 2;
 }
