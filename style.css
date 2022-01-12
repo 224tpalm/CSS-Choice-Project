@@ -58,7 +58,6 @@ div.gallery {
 div.gallery:hover {
   border: 1px solid;
   color: midnightblue;
-  padding-left: 100px;
 }
 
 div.imgdesc {
