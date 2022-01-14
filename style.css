@@ -47,6 +47,7 @@ text-align: center;
   font-size: 60px;
   color: white;
   text-shadow: 2px 2px black;
+  font-family: fantasy;
 }
 
 div.gallery {
@@ -167,6 +168,7 @@ div.imgdesc {
   padding: 5px;
   text-align: center;
   color: black;
+  font-family: fantasy;
 }
 
 div.gallery2 {
@@ -181,5 +183,6 @@ div.gallery2 img {
 }
 
 .active {
-  font-family: cursive;
+  font-family: sans-serif;
+  font-weight: bolder;
 }
