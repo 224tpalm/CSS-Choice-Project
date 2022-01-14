@@ -33,7 +33,7 @@ text-align: center;
   background-image: url("img/images.jpeg");
 }
 
-.container {
+.container1 {
   position: relative;
   text-align: center;
   color: white;
@@ -74,12 +74,10 @@ div.gallery img {
   padding-bottom: 60px;
 }
 
-.mocha {
+.mocha, .soon {
   padding-top: ;
   border: 2px solid black;
 }
-
-
 
 footer {
   padding: 3px;
@@ -183,6 +181,11 @@ div.gallery2 img {
 }
 
 .active {
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+
+h2 {
   font-family: sans-serif;
   font-weight: bolder;
 }
