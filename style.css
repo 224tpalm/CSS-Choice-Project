@@ -189,3 +189,13 @@ h2 {
   font-family: sans-serif;
   font-weight: bolder;
 }
+
+.comingsoon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-45%, -49%);
+  font-size: 60px;
+  color: darkblue;
+  text-shadow: 2px 2px white;
+  font-family: fantasy;
