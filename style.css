@@ -210,3 +210,16 @@ h1 {
   button:hover, button:active {
     background-color: darkred;
   }
+
+  .container3 {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .origin {
+    padding-top: 30px;
+}
+  .origin:hover {
+    filter: brightness(85%);
+  }
