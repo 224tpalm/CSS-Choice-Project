@@ -190,12 +190,9 @@ h2 {
   font-weight: bolder;
 }
 
-.comingsoon {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-45%, -49%);
+h1 {
   font-size: 60px;
   color: darkblue;
-  text-shadow: 2px 2px white;
+  text-shadow: 3px 3px white;
   font-family: fantasy;
+  background-color: grey;
